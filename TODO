@@ -1,0 +1,25 @@
+
+# GARBAGE
+
++ POP protokolu ile mail gondermek
++ IMAP protokolü ile mail gonderebilmek
++ SMTP için SSL yöntemi ile mail gönderebilmek
++ -log argümanı bir klasöre gösterilebilsin, gösterilen klasör save olsun ve bir dahikine bu klasör kullanılsın
++ -log argümanı parametre alırsa aldığı parametre adında log dosyasını kaydetsin
++ -log dosyası ön eki --save argümanı ile belirlenebilsin
++ Her e-mail gönderiminde log dosyası kaydetmek için --save argümanı kullanabilelim
++ Otomatik log açık olması durumunda log tutmayı anlık olarak aktif dışı bırakan bir argüman eklenmeli
++ Toplu e-mail atmak için amaçlı -to argümanına .txt dosya gösterebilmek
++ -message argümanına .txt dosya gosterebilmek gerekiyor
++ requipments.txt oluşturulmalı
++ readme.md dosyasına talimatlar eklenmeli
++ connect_with_tls() içinde defalarca try kullanmak yerine except karşılıkları tek try altında toplanmalı
++ to.txt dosyası olsun ve burada -to argümanına parametre olarak kullanabilecegimiz degiskenler tanımlayalım
++ mail_settings.txt dosyası SMTP, POP, IMAP protokol seçimini ve port seçimini kaydetsin
++ Bu programın modül olarak kullanımına karşın düzenlenmesi gerekiyor
++ loglar gizli klasör olarak kaydedilip 'mail log' komutu gibi bir kullanımla terminal üstünde listelenebilir
++ 'mail log -d 12.05.18' gibi bir kullanımla belirtilen tarihte atılmış mesajları listeleyebilir
+
+# PRIORITY
+
++ Revizyon dokumantasyonu oluşturulmalı ve GARBAGE ayıklanmalı
