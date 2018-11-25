@@ -200,20 +200,3 @@ def main():
 	save_log()
 
 main()
-
-"""
-TODO
-
-+ POP protokolu ile mail gondermek
-+ IMAP protokolü ile mail gonderebilmek
-+ log argümanı bir klasöre gösterilebilsin, gösterilen klasör save olsun ve bir dahikine bunu kullanalım
-+ log argümanı parametre alırsa aldığı parametre adında log dosyasını kaydetsin
-+ sürükli log alma save edilebilsin
-+ to kısmına .txt dosya gostermek
-+ message argümanına .txt dosya gosterebilmek
-
-BUG
-
--
-
-"""
